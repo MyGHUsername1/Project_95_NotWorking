@@ -1,0 +1,55 @@
+html, body
+{
+    height: 100%;
+    margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #33f1e1, #25d9ca, #18c1c1, #0aa5aa, #00948d);
+}
+
+#bell4
+{
+  height: 50px;
+  width: 50px;
+}
+
+#bird
+{
+  height: 50px;
+  width: 50px;
+
+}
+
+.header
+{
+  text-align: center;
+}
+
+#user_name
+{
+  width: 300px;
+}
+
+.login_div
+{
+	background: rgb(195, 250, 247);
+  float: none;
+  border-radius: 15px;
+  padding-top: 10px;
+}
+
+#bird
+{
+	height: 50px;
+  width: 50px;
+  margin-top: 30px;
+  border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;
+  border-radius: 15px;
+}
